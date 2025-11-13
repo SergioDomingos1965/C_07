@@ -8,6 +8,5 @@ int main()
     Swap(a, b);
     
     std::cout <<min(a, b)<<std::endl;
-    std
     return (0);
 }
